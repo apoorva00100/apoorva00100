@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMwMDY2NmY2MTQzZjMyYjJkMzFlNTc1Yzc2ZTMzNWQyMWMxMTFjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT0xeu01eP6nO1uHFC/giphy.gif" width="100"/>
-</div>
 
 <div align="center">
   <h1>Hey there 👋 I'm Apoorva!</h1>
