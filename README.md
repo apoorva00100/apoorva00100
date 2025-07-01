@@ -16,7 +16,9 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a **Second Year CS Undergrad @ JSS Academy of Technical Education, Noida**, passionate about building real-world tech with a purpose. I love diving into the worlds of **Artificial Intelligence** and **Web Development**, always eager to learn and innovate.
+I'm a **Second Year CS Undergrad @ JSS Academy of Technical Education, Noida** 
+Passionate about building real-world tech with a purpose. 
+I love diving into the worlds of **Artificial Intelligence** and **Web Development**, always eager to learn and innovate.
 
 ---
 
